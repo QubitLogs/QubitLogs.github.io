@@ -4,6 +4,7 @@ title: Jekyll blogging reference and perfect workflow guide
 layout: post
 tags: [Jekyll, Workflow]
 categories: [Workflow]
+permalink: jekyll-blogging-reference-and-perfect-workflow-guide
 ---
 I've used several blogging software in the past few years but none of those heavy-weight champions suited me, these software include wordpress, tumblr and movable-type.
 
