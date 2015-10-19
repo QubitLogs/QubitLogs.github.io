@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://QubitLogs.github.io
+title: Qubit Logs
+email: 
+author: Raj Rathore
+description: Qubit Logs: Web logs of a computer programmer & his experiences with day-today computing and technology.
+paginate: 3
+google_analytics: UA-69024344-1
